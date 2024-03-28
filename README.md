@@ -29,7 +29,7 @@ yarn install
 ### Adjust the DATABASE_URL in .env file to your database url
 
 ```bash
-npx prisma migrate dev
+npx prisma migrate deploy
 ```
 
 ```bash
